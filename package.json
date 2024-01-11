@@ -1,0 +1,14 @@
+{
+  "name": "telegram-nmap-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for NMAP scans",
+  "main": "telegram_bot.js",
+  "scripts": {
+    "start": "node telegram_bot.js"
+  },
+  "author": "Tech-oops",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.53.0"
+  }
+}
