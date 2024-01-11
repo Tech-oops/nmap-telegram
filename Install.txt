@@ -18,7 +18,7 @@ These scan types enable users to gather comprehensive information about network 
 
 Install required software to run the Nmap Telegram bot. Should work on any linux version and has been tested on Ubuntu 22.04.
 
-Hacker101 Github:
+Tech-oops Github:
 https://github.com/Tech-oops/
 
 Update APT:
